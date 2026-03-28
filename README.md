@@ -1,4 +1,4 @@
-📌 Giới thiệu
+#Giới thiệu
 Project này áp dụng kiến thức trong môn Trí tuệ nhân tạo (Artificial Intelligence) để giải bài toán tam giác bằng cách sử dụng Mạng ngữ nghĩa.
 
 Mạng ngữ nghĩa được dùng để biểu diễn tri thức dưới dạng các đỉnh (node) và cung (edge), giúp mô hình hóa mối quan hệ giữa các yếu tố trong bài toán tam giác như:
